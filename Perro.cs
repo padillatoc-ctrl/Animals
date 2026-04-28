@@ -33,9 +33,9 @@ class Program
     static void Main()
     {
         // Crear un Animal
-        //Animal miAnimal = new Animal("León", 5);
-        //miAnimal.MostrarInfo();       // Nombre: León, Edad: 5
-        //miAnimal.HacerSonido();       // León hace un sonido.
+        Animal miAnimal = new Animal("Perro", 5);
+        miAnimal.MostrarInfo();        Nombre: Nicky, Edad: 3
+        miAnimal.HacerSonido();       // Perro hace un sonido.
 
         Console.WriteLine();          // línea en blanco
 
